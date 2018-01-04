@@ -1,0 +1,22 @@
+{
+  "name": "phonegap-vuejs",
+  "version": "0.1.0",
+  "description": "A simple VueJS template for PhoneGap.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jskirst/phonegap-vuejs.git"
+  },
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "author": "Jonathan Kirst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jskirst/phonegap-vuejs/issues"
+  },
+  "homepage": "https://github.com/jskirst/phonegap-vuejs"
+}
